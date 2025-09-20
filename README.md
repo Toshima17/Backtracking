@@ -2,4 +2,4 @@
 Backtracking: 
 Understanding How the backtracking works.
 
-learnt by Toshima Rahangdale.
+learnt by Toshima Rahangdale
